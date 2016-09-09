@@ -5,19 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/menu.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/levelsmenu.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/nextlevel.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/level1.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/level2.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/level3.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/level4.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/sceens/level5.unity
